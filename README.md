@@ -10,4 +10,4 @@ In 1996 the federal government along with the state of California mandated that 
 
 These interfaces provide essential information for troubleshooting a computer-controlled electronic fuel injected engine. Thus, the impetus for bringing even an older car like the 5th generation (92-95) Honda in compliance.
 
-![](https://github.com/andyzsmith/HonOBDapt/
+![](https://github.com/andyzsmith/HonOBDapt/blob/master/prototype/prototype.jpg)
